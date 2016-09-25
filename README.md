@@ -1,2 +1,2 @@
 # archlinux-lxqt-theme
-Dark arch linux theme for the LXQt Desktop
+Dark Arch linux theme for the LXQt Desktop
