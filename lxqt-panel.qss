@@ -57,7 +57,7 @@ LXQtPanelPlugin > QToolButton:on {
 Menus
 */
 QMenu {
-   background-color:#041b27;
+   background-color:#d7e3e6;
    border-radius:3px;
 }
 QMenu::item {
@@ -102,7 +102,7 @@ Mainmenu search field & results
    border: none;
    margin:3px;
    padding: 3px;
-   background: #e7e2e2;
+   background: #d7e3e7;
    color: #4d4b4b;
    border-radius: 1px;
 }
@@ -119,7 +119,7 @@ Mainmenu search field & results
    padding: 5px 30px 5px 3px;
 
 }
-#MainMenu ActionView::item:selected {
+#MainMenu ActionView::item:hover {
    background: #1899da;
    color:#d7e3e6;
 }
