@@ -7,14 +7,17 @@ Notification {
    padding: 1px;
    margin: 0px;
 }
+
 /*message*/
 QLabel {
    color:#e5f3f9;
 }
+
 /*title*/
 #appLabel {
    color:#1899da;
 }
+
 QToolButton {
    padding:4px;
 }
